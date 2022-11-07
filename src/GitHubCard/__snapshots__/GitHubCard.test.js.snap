@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+>
+  <img
+    className="card-img-top"
+    src="biggie_cheese.jpg"
+  />
+  <div
+    className="card-title h5"
+  >
+    Alex Schmidt
+  </div>
+  <p
+    className="card-text"
+  >
+    My name is Alex and I love music and video games. 
+    <br />
+    I am currently studying React in a coding bootcamp!
+  </p>
+</div>
+`;

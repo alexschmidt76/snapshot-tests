@@ -1,12 +1,12 @@
 import './App.css';
 import React from 'react';
+import GitHubCard from './GitHubCard/GitHubCard';
 
 
 function App() {
   return (
     <div className="App">
-      <h2>Hello World</h2>
-      <h3>My name is Alex</h3>
+      <GitHubCard />
     </div>
   );
 }
